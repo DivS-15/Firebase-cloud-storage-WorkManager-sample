@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "207090683129",
+    "project_id": "storage-demo-ds",
+    "storage_bucket": "storage-demo-ds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207090683129:android:4c598138eae58e8a622628",
+        "android_client_info": {
+          "package_name": "com.divyansh.application.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207090683129-s1jihhkie9d5boinqou9o9mees6jfsha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divyansh.application.storage",
+            "certificate_hash": "5ff0bdeffb0a1458e7380cc26d6130e7cdf95522"
+          }
+        },
+        {
+          "client_id": "207090683129-p9f6h6gbe24f3aloglv8deeqls47pfd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc_yUHtjkoLKP9RO5PV09sz3f7GBHWRmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207090683129-p9f6h6gbe24f3aloglv8deeqls47pfd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207090683129:android:99ff030d86490471622628",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207090683129-p9f6h6gbe24f3aloglv8deeqls47pfd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc_yUHtjkoLKP9RO5PV09sz3f7GBHWRmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207090683129-p9f6h6gbe24f3aloglv8deeqls47pfd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
